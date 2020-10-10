@@ -4,7 +4,7 @@
 - I'm mobile and web application development.
 - I'm currently learning react native in be hybrid. 
 - I can do development with Server-side technologies include Spring boot framework, RabbitMQ, Jsp, Servlet and Hibernate technologies.
-- I am always open to innovation !
+- I'm always open to innovation !
 ---
 <table><tr><td valign="top" width="50%">
   
