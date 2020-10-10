@@ -37,3 +37,10 @@ More on [aysenurgokdemir.com](https://aysenurgokdemir.com/)
 
   
 <img src="https://github-readme-stats.vercel.app/api?username=AysenurGokdemir">
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
