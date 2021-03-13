@@ -16,7 +16,7 @@
 <!-- blog ends -->
 More on [aysenurgokdemir.com](https://aysenurgokdemir.com/)
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="25%">
   
   **Languages and Tools**
 
