@@ -38,7 +38,7 @@ More on [aysenurgokdemir.com](https://aysenurgokdemir.com/)
 
 <div align="center">
 
-
+![](https://komarev.com/ghpvc/?username=AysenurGokdemir&color=blueviolet)
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
