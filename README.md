@@ -1,6 +1,5 @@
 ### Hi, I'm Ayşenur ! 👋
 
-- I'm android native mobile application developer.
 - I'm mobile and web application development. 
 - I can do development with Server-side technologies include Spring boot framework, RabbitMQ, Jsp, Servlet and Hibernate technologies.
 - I'm always open to innovation !
