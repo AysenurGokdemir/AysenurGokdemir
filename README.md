@@ -1,7 +1,7 @@
 ### Hi, I'm Ayşenur ! 👋
 
 - I'm mobile and web application development. 
-- I can do development with Server-side technologies include Spring boot framework, RabbitMQ, Jsp, Servlet and Hibernate technologies.
+- I can do development with Server-side technologies include Spring MVC, Spring boot framework, RabbitMQ, Jsp, Servlet and Hibernate technologies.
 - I'm always open to innovation !
 ---
 <table><tr><td valign="top" width="50%">
