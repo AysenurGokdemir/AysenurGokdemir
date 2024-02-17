@@ -33,8 +33,6 @@ More on [aysenurgokdemir.com](https://aysenurgokdemir.com/)
 
 </td></tr></table>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AysenurGokdemir">
-
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=AysenurGokdemir&color=blueviolet)
